@@ -43,9 +43,9 @@ The data science industry has rapidly evolved, with varying compensation pattern
 
 ## Files Included
 
-- `data_science_salaries.csv`: Raw dataset
-- `salary_analysis.ipynb`: Python notebook for EDA and preprocessing
-- `salary_dashboard.xlsx`: Excel pivot tables and dashboard
+- `Data Science Salary 2021 to 2023.csv`: Raw dataset
+- `salary.ipynb`: Python notebook for EDA and preprocessing
+- `Data Science Salary Dashboard.xlsx`: Excel pivot tables and dashboard
 - `powerbi_dashboard.pbix`: Power BI dashboard file
 - `tableau_dashboard.twbx`: Tableau packaged workbook
 
