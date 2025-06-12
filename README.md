@@ -47,7 +47,7 @@ The data science industry has rapidly evolved, with varying compensation pattern
 - `salary.ipynb`: Python notebook for EDA and preprocessing
 - `Data Science Salary Dashboard.xlsx`: Excel pivot tables and dashboard
 - `powerbi_dashboard.pbix`: Power BI dashboard file
-- `tableau_dashboard.twbx`: Tableau packaged workbook
+- `tableau_dashboard.twb`: Tableau packaged workbook
 
 ---
 
