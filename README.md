@@ -5,6 +5,12 @@ This project provides a detailed salary analysis in the data science field using
 
 ---
 
+## Dashboard
+![Image](https://github.com/user-attachments/assets/3118f632-434e-4408-a41f-b1983797ff3a)
+
+
+---
+
 ## Problem Statement
 The data science industry has rapidly evolved, with varying compensation patterns across roles, locations, and experience levels. The goal of this project is to:
 
