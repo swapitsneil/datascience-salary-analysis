@@ -1,4 +1,4 @@
-# Data Science Salary Analysis Dashboard (2021–2023)
+# Data Science Salary Analysis Dashboard (2020–2023)
 
 ## Overview
 This project provides a detailed salary analysis in the data science field using four tools: **Python**, **Excel**, **Power BI**, and **Tableau**. It visualizes trends and insights from real-world data collected over the years 2021 to 2023, helping stakeholders understand salary patterns across job roles, experience levels, company sizes, and geographies.
