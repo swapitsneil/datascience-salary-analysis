@@ -8,7 +8,7 @@ This project provides a detailed salary analysis in the data science field using
 ## Dashboard
 ## Power BI
 
-![Image](https://github.com/user-attachments/assets/3118f632-434e-4408-a41f-b1983797ff3a)
+![Image](https://github.com/user-attachments/assets/3535eaec-f328-45b7-96c4-7f315e1745fb)
 
 ## Tableau
 
